@@ -1,6 +1,6 @@
 # Color Detection using OpenCV 🎨
 
-This project demonstrates basic color detection using OpenCV.
+This project demonstrates basic color detection using OpenCV with real-time webcam detection.
 It detects a specific color range in an image using HSV color space
 and highlights the detected regions.
 
@@ -27,6 +27,5 @@ and highlights the detected regions.
 Beginner project created as part of learning OpenCV fundamentals.
 
 ## Future Improvements
-- Real-time webcam detection
 - Trackbars for dynamic color selection
 - Support for multiple colors
